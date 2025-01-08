@@ -31,6 +31,7 @@ Data Cleaning Process:
 Before performing any analysis, the dataset was cleaned to ensure data quality:
 
 Duplicates Removal: All duplicate entries were removed to ensure accurate analysis.
+
 Null Values Handling: Applied suitable processes to handle missing data efficiently, ensuring completeness in the dataset.
 
 Tools Used:
